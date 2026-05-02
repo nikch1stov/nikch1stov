@@ -18,10 +18,10 @@
 ------
 
 ### 🤖 AI Tools
-- ChatGPT (vibe coding, data analysis, learning)
-- Gemini (learning, data analysis)
-- Claude (vibe coding, data analysis, learning)
-- Base44 (vibe coding)
+- **ChatGPT:** vibe coding, data analysis, learning
+- **Gemini:** learning, data analysis
+- **Claude:** vibe coding, data analysis, learning
+- **Base44:** vibe coding
   
 ------
 
