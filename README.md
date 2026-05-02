@@ -1,4 +1,4 @@
-<img width="4752" height="1188" alt="LinkedIn cover - 4" src="https://github.com/user-attachments/assets/3028e5bf-39bd-4dd2-8764-a8b9cc03378b" />
+<img width="4752" height="1188" alt="22" src="https://github.com/user-attachments/assets/2e1298ad-736d-4473-a09e-752b0066e742" />
 
 
 -----
