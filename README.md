@@ -1,4 +1,5 @@
-<img width="4659" height="1188" alt="opopop" src="https://github.com/user-attachments/assets/efa3cdbf-6697-4387-bc73-16c2de92b059" />
+<img width="4500" height="1500" alt="j" src="https://github.com/user-attachments/assets/df6c0da2-ea05-4dee-ad4f-f424f4434cfb" />
+
 
 ### ⚒️ Tech Stack
 
