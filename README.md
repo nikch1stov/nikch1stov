@@ -1,8 +1,5 @@
 <img width="4659" height="1188" alt="opopop" src="https://github.com/user-attachments/assets/efa3cdbf-6697-4387-bc73-16c2de92b059" />
 
------
-
-
 ### ⚒️ Tech Stack
 
 - **SQL (PostgreSQL):** data extraction, joins, aggregations, window functions, CTEs, ad-hoc analysis  
