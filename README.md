@@ -1,8 +1,10 @@
-### 👋 Hi there! I'm Nikolai.
+<img width="4752" height="1188" alt="LinkedIn cover - 4" src="https://github.com/user-attachments/assets/3028e5bf-39bd-4dd2-8764-a8b9cc03378b" />
 
-<!---->
 
-### ⚒️ Tech Stack
+-----
+
+
+### ⚒️ My Tech Stack
 - **SQL (PostgreSQL):** data extraction, joins, aggregations, window functions, CTEs, ad-hoc analysis  
 - **Python:** Pandas, Matplotlib, Seaborn — data preprocessing, EDA, visualization  
 - **BI:** Yandex DataLens, Superset - dashboards, reporting, interactive analytics  
@@ -17,7 +19,7 @@
   
 ------
 
-### 🤖 AI Tools
+### 🤖 My AI Tools
 - **ChatGPT:** vibe coding, data analysis, learning
 - **Gemini:** learning, data analysis
 - **Claude:** vibe coding, data analysis, learning
@@ -25,7 +27,7 @@
   
 ------
 
-### 👔 Work experience
+### 👔 My Work experience
 
 | Job Position               | Company | Department \ Division                                           | Work Period       |
 |:---------------------------|:--------|:----------------------------------------------------------------|:------------------|
@@ -35,7 +37,7 @@
 
 -------
 
-### 🎓  Education
+### 🎓 My Education
 
 - **BI/Data Analyst** in Yandex Practicum (2025 - 2026)
 - **Bachelor’s degree** in Russian Presidential Academy of National Economy and Public Administration (Jurisprudence) (2014 - 2018)
@@ -45,6 +47,6 @@
 
 
 -------
-### 💬 Contacts
+### 💬 My Contacts
 - Telegram: [@nik_chistov](https://t.me/nik_chistov)
 - E-mail: [nkchistov@gmail.com](mailto:nkchistov@gmail.com)
