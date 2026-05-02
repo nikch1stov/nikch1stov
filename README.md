@@ -3,12 +3,17 @@
 <!---->
 
 ### ⚒️ Tech Stack
-- Python: Pandas, Matplotlib, Seaborn, Phik (basic correlation analysis)
-- SQL: PostgreSQL (SELECT, JOIN, GROUP BY, HAVING, window functions, CTEs, subqueries)
-- BI: Yandex DataLens, Superset (basic)
-- Excel / Google Sheets: VLOOKUP, PivotTables, conditional functions, data analysis
-- Data Analysis: EDA, data visualization, basic statistics
-- Tools: Git (basic), Jupyter Notebook, DBeaver, VS Code
+- **SQL (PostgreSQL):** data extraction, joins, aggregations, window functions, CTEs, ad-hoc analysis  
+- **Python:** Pandas, Matplotlib, Seaborn — data preprocessing, EDA, visualization  
+- **BI:** Yandex DataLens, Superset - dashboards, reporting, interactive analytics  
+- **Excel / Google Sheets:** VLOOKUP, PivotTables, data analysis  
+
+- **Data Analysis:** EDA, data cleaning, visualization, descriptive statistics  
+- **Product Analytics:** business metrics (DAU, LTV, retention, conversion), cohort analysis, funnels  
+- **Statistics:** hypothesis testing, A/B testing, statistical analysis  
+- **Data Modeling:** data marts, data transformation, data quality  
+
+- **Tools:** Git (basic), Jupyter Notebook, DBeaver, VS Code  
   
 ------
 
