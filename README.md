@@ -4,7 +4,7 @@
 ### ⚒️ Tech Stack
 
 - **SQL (PostgreSQL):** data extraction, joins, aggregations, window functions, CTEs, ad-hoc analysis  
-- **Python:** Pandas, Matplotlib, Seaborn — data preprocessing, EDA, visualization  
+- **Python:** Pandas, Matplotlib, Seaborn - data preprocessing, EDA, visualization  
 - **BI:** Yandex DataLens, Superset - dashboards, reporting, interactive analytics  
 - **Excel / Google Sheets:** VLOOKUP, PivotTables, data analysis  
 - **Data Analysis:** EDA, data cleaning, visualization, descriptive statistics  
