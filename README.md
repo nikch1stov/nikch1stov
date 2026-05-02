@@ -67,4 +67,5 @@
 ### 💬 My Contacts
 
 - Telegram: [@nik_chistov](https://t.me/nik_chistov)
+- LinkedIn: [nikolaichistov](https://www.linkedin.com/in/nikolaichistov/)
 - E-mail: [nkchistov@gmail.com](mailto:nkchistov@gmail.com)
