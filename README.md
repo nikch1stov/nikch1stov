@@ -1,6 +1,6 @@
 <img width="4500" height="1500" alt="j" src="https://github.com/user-attachments/assets/df6c0da2-ea05-4dee-ad4f-f424f4434cfb" />
 
-### 👨🏻‍💻 Abot me
+### 👨🏻‍💻 About me
 
 Data Analyst with experience in CRM analytics, anti-fraud, and business process optimization. Worked at Yandex (Big Tech, AdTech), analyzing sales and client data using SQL, Python, and BI tools. Detected fraud schemes, identified growth opportunities, prevented multi-million losses, and contributed to revenue growth.
 
