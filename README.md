@@ -53,11 +53,11 @@ Data Analyst with experience in CRM analytics, anti-fraud, and business process 
 
 #### 🧑‍🎓 Study Projects
 
-| # | Project Name | Description | Stack | Period | Link |
-|:-:|:-------------|:------------|:------|:-------|:-----|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+| # | Project Name | Description | Business Value | Stack | Period | Link |
+|:-:|:-------------|:------------|:----------------|:------|:-------|:-----|
+| 1 | Startup Research | Conducted exploratory data analysis of the startup market (funding, stages, investment returns). Based on the analysis, helped the client determine the optimal investment approach and identify the most promising sectors and startup stages for investment, considering expected returns and risk levels. | Enabled data-driven investment decisions by identifying high-potential segments and optimizing portfolio allocation while reducing risk exposure. | pandas, matplotlib, seaborn | 2026 | [Startup Research Project](https://github.com/nikch1stov/my_analyst_portfolio/tree/main/startup_research) |
+| 2 | Real Estate Sales & Seasonality Analysis | Conducted exploratory data analysis of the real estate market in Saint Petersburg and the Leningrad region, focusing on listing activity duration, property characteristics, and seasonal patterns. Analyzed how price, area, and other features impact time-to-sale, and identified temporal trends in listing publication and closure. | Helped the client identify the most effective timing and segments for entering the market, optimize listing strategy, and align marketing efforts with peak seasonal demand, improving sales efficiency and reducing time-to-sale. | SQL | 2026 | [Real Estate Sales & Seasonality Analysis](https://github.com/nikch1stov/my_analyst_portfolio/tree/main/real_estate_sales_seasonality_analysis) |
+| 3 | Saransk Restaurant Performance Dashboard: DAU, CR, LTV, Retention (May-June 2021) | Conducted comprehensive analysis of key business metrics for the restaurant industry in Saransk during May-June 2021. The exploratory data analysis focused on user engagement metrics (DAU), conversion rates (CR), lifetime value of dishes and restaurants (LTV), customer retention (RR), and average order value (AOV) dynamics. Analyzed temporal trends, performance of individual dishes and restaurant chains, and seasonal patterns in customer behavior across the food delivery ecosystem. | Enabled Saransk restaurant businesses to optimize customer retention strategies, identify the most profitable dishes and restaurant chains, and determine optimal timing for marketing activities. The analysis helped improve user conversion rates, increase average order value, and enhance overall business efficiency through data-driven insights into customer behavior patterns and seasonal trends. | SQL, Yandex DataLens | 2026 | [Saransk Restaurant Performance Dashboard: DAU, CR, LTV, Retention (May-June 2021)](https://datalens.yandex/w5haqrcu0wxgg) |
 
 -------
 ### 🎓 Education
