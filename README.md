@@ -32,9 +32,10 @@ Data Analyst with experience in CRM analytics, anti-fraud, and business process 
 
 | # | Job Position               | Company | Department \ Division                                           | Work Period       |
 |:-:|:---------------------------|:--------|:----------------------------------------------------------------|:------------------|
-| 1 | Operations Project Manager | Yandex  | Commercial Dept. \ Yandex Ads Client Development Team          | 02.2025 - 11.2025 |
-| 2 | Quality & Fraud Analyst    | Yandex  | Commercial Dept. \ Internal Procedures Quality Control Team    | 03.2021 - 02.2025 |
-| 3 | Sales Manager              | Yandex  | Commercial Dept. \ Sales Team                                  | 01.2020 - 08.2020 |
+| 1 | Data Analyst (Training Program) | Yandex Practicum  | BI & Data Analytics          | 2025 – present |
+| 2 | Operations Project Manager | Yandex  | Commercial Dept. \ Yandex Ads Client Development Team          | 02.2025 - 11.2025 |
+| 3 | Quality & Fraud Analyst    | Yandex  | Commercial Dept. \ Internal Procedures Quality Control Team    | 03.2021 - 02.2025 |
+| 4 | Sales Manager              | Yandex  | Commercial Dept. \ Sales Team                                  | 01.2020 - 08.2020 |
 
 -------
 
