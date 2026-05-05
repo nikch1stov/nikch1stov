@@ -69,6 +69,11 @@ Data Analyst with experience in CRM analytics, anti-fraud, and business process 
 ### 📜 Certifications
 
 
+#### SQL ACADEMY
+
+- [SQL course](https://drive.google.com/file/d/1agw-Ged1Htnr-H5_DudgOP_JDpKWwjEn/view?usp=sharing)
+
+
 -------
 ### 💬 My Contacts
 
