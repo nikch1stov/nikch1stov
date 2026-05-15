@@ -45,9 +45,8 @@ Data Analyst with experience in CRM analytics, anti-fraud, and business process 
 
 | # | Project Name | Description | Stack | Period | Link |
 |:-:|:-------------|:------------|:------|:-------|:-----|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+| 1 | Instagram Analytics Pipeline | End-to-end analytics for two Instagram accounts of a B2C logistics company (Turkey-Russia route).End-to-end analytics for two Instagram accounts of a B2C logistics company (Turkey-Russia route). Automated data collection, business metadata enrichment, BI dashboard for content strategy decisions and cross-market comparison. | Python, PostgreSQL, GitHub Actions, Yandex DataLens, Instagram Graph API | May 2026 -  present | - |
+
 
 
 
